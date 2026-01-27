@@ -13,4 +13,4 @@ pip install pandas
 ```
 ## 📚 Documentation:
 Official documentation:
-[https://pandas.pydata.org/docs/]
+- https://pandas.pydata.org/docs/
